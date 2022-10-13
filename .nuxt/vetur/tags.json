@@ -1,0 +1,80 @@
+{
+  "AboutUs": {
+    "description": "Auto imported from components/AboutUs/index.vue"
+  },
+  "Contact": {
+    "description": "Auto imported from components/Contact/index.vue"
+  },
+  "BenefitsProgram": {
+    "description": "Auto imported from components/BenefitsProgram/index.vue"
+  },
+  "CookiesTechnologies": {
+    "description": "Auto imported from components/CookiesTechnologies/index.vue"
+  },
+  "DataController": {
+    "description": "Auto imported from components/DataController/index.vue"
+  },
+  "DataHolder": {
+    "description": "Auto imported from components/DataHolder/index.vue"
+  },
+  "DataStored": {
+    "description": "Auto imported from components/DataStored/index.vue"
+  },
+  "DocumentPurpose": {
+    "description": "Auto imported from components/DocumentPurpose/index.vue"
+  },
+  "Faq": {
+    "description": "Auto imported from components/Faq/index.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer/index.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header/index.vue"
+  },
+  "PersonalData": {
+    "description": "Auto imported from components/PersonalData/index.vue"
+  },
+  "PersonalDataPurposes": {
+    "description": "Auto imported from components/PersonalDataPurposes/index.vue"
+  },
+  "PersonalDataSecurity": {
+    "description": "Auto imported from components/PersonalDataSecurity/index.vue"
+  },
+  "PersonalDataSharing": {
+    "description": "Auto imported from components/PersonalDataSharing/index.vue"
+  },
+  "PersonalDataTransfer": {
+    "description": "Auto imported from components/PersonalDataTransfer/index.vue"
+  },
+  "PrivacyPolicy": {
+    "description": "Auto imported from components/PrivacyPolicy/index.vue"
+  },
+  "ResponsiveImage": {
+    "description": "Auto imported from components/ResponsiveImage/index.vue"
+  },
+  "Summary": {
+    "description": "Auto imported from components/Summary/index.vue"
+  },
+  "Validity": {
+    "description": "Auto imported from components/Validity/index.vue"
+  },
+  "PersonalDataDataProvided": {
+    "description": "Auto imported from components/PersonalData/DataProvided/index.vue"
+  },
+  "PersonalDataStorePlatform": {
+    "description": "Auto imported from components/PersonalData/StorePlatform/index.vue"
+  },
+  "PersonalDataPurposesPlaneList": {
+    "description": "Auto imported from components/PersonalDataPurposes/PlaneList/index.vue"
+  },
+  "SharedCard": {
+    "description": "Auto imported from components/shared/Card/index.vue"
+  },
+  "SharedCardList": {
+    "description": "Auto imported from components/shared/CardList/index.vue"
+  },
+  "SharedProgress": {
+    "description": "Auto imported from components/shared/Progress/index.vue"
+  }
+}

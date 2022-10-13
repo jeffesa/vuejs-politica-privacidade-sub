@@ -1,0 +1,72 @@
+@import "colors";
+@import "sizes";
+@font-face {
+  font-family: 'CVCSans-Regular';
+  src: url('../../static/fonts/CVCSans-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'CVCSans-Medium';
+  src: url('../../static/fonts/CVCSans-Medium.woff') format('woff');
+}
+
+body {
+  background: $primary;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: $cloudy-100;
+}
+
+@include media(">=lg") {
+  h1 {
+    font-family: CVCSans-Medium;
+  }
+}
+p, ul, li, span {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: $cloudy-100;  
+}
+
+p, ul, li, span {
+  @include media("<=lg") {
+    font-size: 14px;
+  }
+  @include media(">=lg") {
+    font-size: 14px;
+  }
+  @include media(">=xl") {
+    font-size: 16px;
+  }
+  @include media(">=2xl") {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .container {
+      max-width: 1440px;
+  }
+}
+
+@media (max-width: 1280px) {
+  .container {
+      max-width: 100%;
+  }
+}
+
+// @include media(">=lg") {}
+// @include media(">=xl") {}
+// @include media(">=2xl") {}
+
+// @include media(“>=lg”) {
+//   width: 668px !important;
+//   height: 133px;
+//   margin: 48px 0 calc(32px - 16px) 0;
+// }
+// @include media(“>=xl”) {
+//   margin: 48px 0 calc(32px - 16px) 0;
+// }
